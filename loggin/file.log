@@ -1,0 +1,6 @@
+2024-05-10 17:40:28,169	DEBUG	Using verbose mode
+2024-05-10 17:40:28,169	DEBUG	Logging to file: file.log
+2024-05-10 17:40:28,169	DEBUG	Using template mod
+2024-05-10 17:40:28,169	DEBUG	Add char d to password
+2024-05-10 17:40:28,169	INFO	Generated password length: 1
+2024-05-10 17:40:28,169	INFO	Generated password from template: *
